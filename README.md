@@ -14,7 +14,7 @@ Learn on.
 ## How to use it?
 
 It needs `terminal-notifier` [a ruby gem](https://github.com/alloy/terminal-notifier), `atrun` enabled, and a `crontab` to work.
-running `./install_depenencies.sh should do the trick.`
+running `./install_depenencies.sh` should do the trick.
 OSX only, sorry!
 
 Also, you may need to restart your computer to get `terminal-notifier` to actually launch the terminal into the list.
